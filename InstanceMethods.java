@@ -18,6 +18,9 @@ public class InstanceMethods {
 
 		System.out.println("New Line added as testLead in Main Branch");
 		System.out.println("Direct pull");
+		
+		
+		System.out.println("New line added in tester branch");
 	}
 
 }
