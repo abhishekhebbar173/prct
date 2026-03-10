@@ -17,12 +17,15 @@ public class InstanceMethods {
 		System.out.println("New line added as tester");
 
 		System.out.println("New Line added as testLead in Main Branch");
-		System.out.println("Direct pull");
+		
 		
 		
 		System.out.println("New line added in tester branch");
+		System.out.println("Direct pull  edited in main branch");
+		System.out.println("New line added in master");
 	}
 
 }
+
 
 
